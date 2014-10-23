@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>items</key>
-	<array>
+    <array>
 		<dict>
 			<key>assets</key>
 			<array>
@@ -20,7 +20,7 @@
 				<key>bundle-identifier</key>
 				<string>com.lixunkj.weizhuan</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.53</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
